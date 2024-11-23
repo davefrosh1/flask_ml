@@ -1,0 +1,15 @@
+flask
+pandas
+numpy
+scikit-learn
+streamlit
+feature-engine
+openpyxl
+matplotlib
+dtale
+seaborn
+lazypredict
+dtale
+mlxtend
+tensorflow
+pytorch
